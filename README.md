@@ -2,7 +2,7 @@
 
 This project is a web-based dashboard to visualize biodegradability data in real-time, allowing users to interact with temperature and moisture simulation controls while viewing data trends over time.
 
-![alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/prudhvijampana/Desktop/react/dev/Aropha/client/image.png?version%3D1734377166069)
+![alt text](./client/image.png)
 
 ## Features
 
